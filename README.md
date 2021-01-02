@@ -32,7 +32,9 @@ Run `python kafka_server.py`
 
 4. Kafka consumer:
 
-Run `kafka-console-consumer --topic "com.udacity.police-calls" --from-beginning --bootstrap-server localhost:9092`
+Run `kafka-console-consumer --topic "com.udacity.police-calls" --from-beginning --bootstrap-server localhost:9092`, the output is:
+<img src='consumer-console.jpg'/>
+
 
 ## Questions
 
